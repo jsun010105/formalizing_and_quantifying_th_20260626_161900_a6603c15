@@ -1,0 +1,14 @@
+{
+  "success": false,
+  "stages": {
+    "resource_finder": {
+      "success": false,
+      "completion_marker": null,
+      "outputs": {},
+      "log_file": "/workspaces/formalizing_and_quantifying_th_20260626_161900_a6603c15/logs/resource_finder_claude.log",
+      "transcript_file": "/workspaces/formalizing_and_quantifying_th_20260626_161900_a6603c15/logs/resource_finder_claude_transcript.jsonl",
+      "elapsed_time": 4.327357292175293
+    }
+  },
+  "work_dir": "/workspaces/formalizing_and_quantifying_th_20260626_161900_a6603c15"
+}
